@@ -1,5 +1,9 @@
 Mster branch:
+
 changes made from master
+also smoe other changes added
+changes made from one branch
+
 this is written in master branch
 One branch:
 this is written in one branch
